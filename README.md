@@ -8,3 +8,5 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: preradovic.radovan@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I love art of living. 
+
+href="www.linkedin.com/in/radovan-preradovic-4b00b4119"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/raddovan/raddovan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
