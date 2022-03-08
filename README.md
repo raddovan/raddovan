@@ -1,19 +1,10 @@
-[![Header](https://raw.githubusercontent.com/raddovan/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+## Hi there 👋, meet Radovan
+I am a Javascript developer who is really passionate of its technologies
 
+Skills: REACT / JS / HTML / CSS
 
-### Hi there 👋
-
-<!--
-**raddovan/raddovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Business software intelligence. 
+- 🌱 I’m currently learning Dart and Flutter.
+- 📫 How to reach me: preradovic.radovan@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I love art of living. 
